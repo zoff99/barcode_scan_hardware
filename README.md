@@ -2,5 +2,5 @@
 
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - [USB Barcode Scanner](https://www.amazon.de/Barcodescanner-MUNBYN-Barcodelesegerät-Omnidirektionaler-Automatischer/dp/B07MYR86Y8)
-- [Lasercutter parts]()
+- [Lasercutter parts](https://github.com/zoff99/barcode_scan_hardware/tree/master/lasercutter_parts)
 - MDF Wood
