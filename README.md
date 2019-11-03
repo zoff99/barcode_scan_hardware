@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zoff99/barcode_scan_hardware/master/images/geiger_counter_mounted01.png" width="250">
+<img src="https://raw.githubusercontent.com/zoff99/barcode_scan_hardware/master/images/geiger_counter_mounted01.png" height="800">&nbsp;<img src="https://raw.githubusercontent.com/zoff99/barcode_scan_hardware/master/images/geiger_counter_mounted02.png" height="800">
 
 # Barcode Scanner Hardware
 
