@@ -12,6 +12,6 @@
 - green LED
 - 100 Ohm Resistor
 
-## external LED connection diagram
+### external LED connection diagram
 
 <img src="https://raw.githubusercontent.com/zoff99/barcode_scan_hardware/master/images/pi_ext_led_connect.png" width="500">
